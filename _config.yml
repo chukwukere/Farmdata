@@ -33,6 +33,13 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "catfish"
+      href: catfish.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
