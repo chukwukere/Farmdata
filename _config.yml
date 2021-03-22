@@ -33,10 +33,12 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-include:
-    - index.html
-    - about.html
-    - catfish.html
+
+<div class="col-sm-2">
+  <!--{ % include about.html % }-->
+   { % include catfish.html % }
+   { % include index.html % }
+</div>
     
 
 # Exclude from processing.
