@@ -1,11 +1,13 @@
-name: "my-website"
+name: "Farmdata"
 navbar:
-  title: "My Website"
+  title: "Farmdata"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "catfish"
+      href: catfish.html
 output:
   html_document:
     highlight: textmate
