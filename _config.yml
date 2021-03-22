@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 <div class="col-sm-2">
-  <!--{ % include about.html % }-->
+  { % include about.html % }
    { % include catfish.html % }
    { % include index.html % }
 </div>
