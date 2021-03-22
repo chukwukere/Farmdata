@@ -34,9 +34,9 @@ theme: minima
 plugins:
   - jekyll-feed
 include:
-    - index.html/
-    - about.html/
-    - catfish.html/
+    - index.html
+    - about.html
+    - catfish.html
     
 
 # Exclude from processing.
