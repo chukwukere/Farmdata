@@ -1,5 +1,7 @@
 ---
 title: "About This Website"
+layout: page
+categories: jekyll update
 ---
 
 Page under construction!

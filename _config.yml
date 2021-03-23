@@ -30,16 +30,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-<div class="col-sm-2">
-  { % include about.html % }
-   { % include catfish.html % }
-   { % include index.html % }
-</div>
-    
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
