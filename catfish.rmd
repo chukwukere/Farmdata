@@ -2,9 +2,10 @@
 title: "Catfish Farm"
 author: "Chukwukere uhuegbulem"
 date: "02/02/2021"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 layout: page
-categories: jekyll update
 ---
 # Project Description
 This is a voluntary project conducted for a catfish farm in Abuja. The objective of the project was: <br>
